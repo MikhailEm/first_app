@@ -2,6 +2,7 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
+Это первое приложение for Ruby on Rails. Как-то так...
 
 Things you may want to cover:
 
